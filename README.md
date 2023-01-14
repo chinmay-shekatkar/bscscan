@@ -11,7 +11,7 @@ git clone https://github.com/chinmay-shekatkar/bscscan.git
 ```
 - Install dependencies
 ```
-cd <project_name>
+cd bscscan
 npm install
 ```
 - Navigate to dist/ folder
