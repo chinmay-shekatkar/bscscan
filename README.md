@@ -7,7 +7,7 @@
 # Getting started
 - Clone the repository
 ```
-git clone  <git lab template url> <project_name>
+git clone https://github.com/chinmay-shekatkar/bscscan.git
 ```
 - Install dependencies
 ```
